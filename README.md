@@ -1,3 +1,3 @@
-# Data_Potfolio
+# Data Science Projects on Sports Analytics
 Analytics
 Author - Hanshika
